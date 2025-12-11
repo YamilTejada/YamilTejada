@@ -49,31 +49,5 @@
 
 </div>
 
----
 
-<h2 align="center">🤝 Conectemos</h2>
 
-<p align="center">
-  <a href="[TU_LINK_DE_LINKEDIN]" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-  <a href="mailto:[TU_EMAIL]" target="blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
-  </a>
-</p>
-
-<details>
-  <summary>☕ Dato curioso (Click aquí)</summary>
-  <div align="center">
-    <br>
-    <samp>¡Gracias por visitar! Aquí un café virtual para ti.</samp>
-    <pre>
-      ( (
-       ) )
-    ........
-    |      |]
-    \      /
-     `----'
-    </pre>
-  </div>
-</details>
