@@ -1,53 +1,57 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=¡Hola!+Soy+Yamil;Software+Engineering+Student+@+UPC+🇵🇪;Disciplina,+Código+y+Creatividad" alt="Typing SVG" />
-</div>
+<h1 align="center">Hi there, I'm Yamil 👋</h1>
+<h3 align="center">Software Engineering Student @ UPC 🇵🇪</h3>
 
 <div align="center">
-    <img src="https://github.com/[TU_USUARIO_DE_GITHUB]/[TU_USUARIO_DE_GITHUB]/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
 
-<h2 align="center">👨‍💻 Sobre mí</h2>
+⭐ **4th Semester** | 🚀 **Refining my English (B2)**
 
-- 🎓 Estoy cursando el **4to ciclo de Ingeniería de Software** en la UPC.
-- 🔭 Actualmente trabajando en **EcoDefensores (C++)** y **TrashTracker (Web)**.
-- 🌱 Aprendiendo **Patrones de Diseño** y perfeccionando mi **Inglés (B2)**.
-- ⚡ Mis fortalezas: **Autodidacta**, comunicativo y obsesionado con el código limpio.
-- 💬 Pregúntame sobre: **Lógica en C++, React Components y SQL**.
+*Passionate student driven by logic and development. I define myself as:*
+<br>
+**Self-taught • Disciplined • Communicative • Friendly**
 
----
-
-<h2 align="center">📊 Mis Estadísticas</h2>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=[TU_USUARIO_DE_GITHUB]&theme=radical&row=1&column=4&margin-w=15&margin-h=15&no-bg=true" alt="trophy" />
-  </a>
-</p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_DE_GITHUB]&show_icons=true&theme=radical&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO_DE_GITHUB]&layout=compact&theme=radical&langs_count=6" height="150" alt="languages graph" />
 </div>
 
 ---
 
-<h2 align="center">🛠️ Arsenal Tecnológico</h2>
-
 <div align="center">
-
-| 🧠 Lenguajes Core & Backend |
-| :---: |
-| <img src="https://skillicons.dev/icons?i=cpp,python,postgres,cs&perline=4" width="200" /> |
-
-| 🎨 Frontend & Web Design |
-| :---: |
-| <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=5" width="250" /> |
-
-| ⚙️ Herramientas & IDEs |
-| :---: |
-| <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,bash,trello&perline=7" width="350" /> |
-
+  <img src="https://raw.githubusercontent.com/YamilTejada/YamilTejada/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
 </div>
 
+<br>
 
+
+<br>
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="900">
+        <h3>🧠 Core & Backend</h3>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=cpp,python,postgres,c&perline=10&theme=dark" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <h3>🎨 Frontend & Web Design</h3>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=10&theme=dark" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <h3>⚙️ Tools & Environment</h3>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,bash,trello&perline=10&theme=dark" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
 
