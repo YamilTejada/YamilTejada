@@ -43,6 +43,31 @@
       </a>
     </td>
   </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <a href="https://github.com/YamilTejada/AeroRoute">
+          <img
+            src="./assets/imgAeroRoute.png"
+            alt="AeroRoute — 3D airport and flight route visualization"
+            width="600"
+          />
+        </a>
+        <h3>✈️ AeroRoute</h3>
+        <p>
+          An interactive web app for exploring global airports and flight routes
+          on a 3D map. Applies BFS and Dijkstra for route finding, and Kruskal
+          to compute minimum spanning networks.
+        </p>
+        <p>
+          <strong>Built with:</strong>
+          Python · FastAPI · React · Deck.gl · PostgreSQL · Tailwind CSS
+        </p>
+        <a href="https://github.com/YamilTejada/AeroRoute">
+          <strong>Explore repository →</strong>
+        </a>
+        <br /><br />
+      </td>
+    </tr>
   <tr>
     <td colspan="2" align="center">
       <h3>🌐 Want to Know More About Me?</h3>
