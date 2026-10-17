@@ -18,7 +18,7 @@
 <h2 align="center">Featured Projects</h2>
 
 
-<table>
+<table align="center" width="100%">
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/YamilTejada/TrashTracker">
